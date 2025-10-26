@@ -1,0 +1,30 @@
+[
+    {
+        "depatureCity": "London City",
+        "destination":{
+         "destinationPartial":"Indigo",
+        "destinationCity": "Hotel Indigo Berlin - Ku’damm"
+        },
+        "month":"JAN 2026",
+        "date":"10",
+        "duration":"2 nights",
+        "rooms": "2",
+        "adult":2,
+        "children":2,
+        "childAge":["5","7"]
+    },
+    {
+        "depatureCity": "London City",
+        "destination":{
+         "destinationPartial":"Indigo",
+        "destinationCity": "Hotel Indigo Berlin - Ku’damm"
+        },
+        "month":"JAN 2026",
+        "date":"10",
+        "duration":"2 nights",
+        "rooms": "2",
+        "adult":2,
+        "children":1,
+        "childAge":[5]
+    }
+]

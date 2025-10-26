@@ -1,0 +1,23 @@
+{
+  "name": "qa-automation",
+  "version": "1.0.0",
+  "description": "End-to-end test automation framework using Playwright’s native test runner for TUI",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AMAnupriya/QA-Automation.git"
+  },
+  "keywords": [],
+  "author": "Anupriya A M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AMAnupriya/QA-Automation/issues"
+  },
+  "homepage": "https://github.com/AMAnupriya/QA-Automation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.9.1",
+    "fs": "^0.0.1-security"
+  }
+}
