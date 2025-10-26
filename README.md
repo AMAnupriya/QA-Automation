@@ -12,7 +12,7 @@ End-to-end test automation framework using Playwright and TypeScript for TUI Pro
 # Setup Instructions
 
 # Clone the repository
-git clone https://github.com/AnupriyaAM/QA-Automation.git
+git clone https://github.com/AMAnupriya/QA-Automation.git
 
 # Navigate to project repo
 cd QA-Automation
